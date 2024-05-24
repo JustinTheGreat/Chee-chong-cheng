@@ -5,13 +5,13 @@ SuperSiri takes in audio data and analyze them to create a set of to-do list and
 
 ## How We Built It
 
-## Front End
+### Front End
 For the front end of SuperSiri, we used a combination of HTML, CSS, and JavaScript to create a user-friendly interface for interacting with the application. The interface allows users to initiate audio recordings and view the generated to-do lists and project tracking information.
 
-## Back End
+### Back End
 The backend of SuperSiri consists of server-side code responsible for processing audio data, analyzing it using AI APIs, and generating the corresponding to-do lists and project tracking information. We used Python along with various libraries and frameworks to build the backend functionality.
 
-## Hardware
+### Hardware
 A novel approach of connecting a Raspberry PI 0w to a rPI microphone and a LCD screen was successfully implemented to collect audio data. The rPI was connected to an external set of monitor, keyboard and mouse. Although we have the camera attached on the rPI, it was proven that either the rPI cannot handle it, or the camera is too slow for a analysis video. 
 
 
